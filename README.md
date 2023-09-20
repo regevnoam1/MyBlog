@@ -1,6 +1,6 @@
 # Server-Client Blog
 
-<img align="center" alt="Coding" src="ezgif.com-video-to-gif.gif" height="300">
+<img align="center" alt="Coding" src="assests/ezgif.com-video-to-gif.gif" height="300">
 
 ##  About this project
 ```bash
